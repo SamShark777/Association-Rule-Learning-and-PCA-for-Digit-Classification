@@ -1,6 +1,5 @@
 # Association-Rule-Learning-and-PCA-for-Digit-Classification
 Project Overview
-This project is divided into two main tasks:
 
 Association Rule Learning:
 
